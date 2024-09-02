@@ -65,7 +65,7 @@ public partial class LangKeys
 你可以像这样使用：
 
 ```xaml
-<TextBolck Text="{x:Static myProject:LangKeys.Language}"/>
+<TextBlock Text="{x:Static myProject:LangKeys.Language}"/>
 ```
 
 然后你可以使用这个键来绑定语言源
